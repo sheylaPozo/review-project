@@ -26,7 +26,7 @@ The main purpose of the project [review-project](https://sheylapozo.github.io/re
 
 ## 💖 Live Demo
 
-![review-project](https://sheylapozo.github.io/review-project/)
+[review-project](https://sheylapozo.github.io/review-project/) 
 
 ---
 
