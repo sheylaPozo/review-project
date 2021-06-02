@@ -1,33 +1,32 @@
 ### review-project
 
+
 ![](https://img.shields.io/github/followers/sheylaPozo?style=social)
 
-### Module 1: "Review one of your past projects"
-
-# project #2 of Microverse 2.0
+# Module 1: "Review one of your past projects" project #2 of Microverse 2.0
 
 > This project is part of Microverse's The Portal part of the curriculum. and it's been built with Html 5 and CSS, for practice purposes to Review a Project and practice skills.
 
-## 💖 Built With
+## 💖 Built With 
 
 - HTML
 - CSS
 
 ---
 
-_💛 Image Preview 💛_
+*💛 Image Preview 💛*
 
-![DEMO](https://user-images.githubusercontent.com/54015740/120403210-5c901300-c309-11eb-8666-5db70813e6c7.jpg)
+![captura](https://user-images.githubusercontent.com/54015740/120563413-22d51000-c3ce-11eb-8746-06b8d90d943e.jpg)
+
 
 ---
-
-## The main purpose of the project [review-project](https://sheylapozo.github.io/review-project/) was for me to develop some hands on work as a code reviewer, using my previous knokledge working with Html, CSS, and linters, which also serves as practice in documenting my work in a professional way, with the learning objectives of using the best practices in HTML code, semantic HTML tags, CSS selectors in a correct way, CSS box model, and to perform a code review for myself on a past project for experience.
-
+The main purpose of the project [review-project](https://sheylapozo.github.io/review-project/) was for me to develop some hands on work as a code reviewer, using my previous knokledge working with Html, CSS, and linters, which also serves as practice in documenting my work in a professional way, with the learning objectives of using the best practices in HTML code, semantic HTML tags, CSS selectors in a correct way, CSS box model, and to perform a code review for myself on a past project for experience.
+-------
 ---
 
 ## 💖 Live Demo
 
-[review-project](https://sheylapozo.github.io/review-project/)
+[review-project](https://sheylapozo.github.io/review-project/) 
 
 ---
 
@@ -52,7 +51,9 @@ You don't know how to fork a project? [Click here](https://help.github.com/artic
 
 Contributions, issues, and feature requests are welcome!
 
+
 Feel free to check the [issues page](https://github.com/sheylaPozo/Hello-Microverse/issues).
+
 
 ## 💗 Show your support
 
