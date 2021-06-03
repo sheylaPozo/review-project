@@ -27,6 +27,7 @@ The main purpose of the project [review-project](https://sheylapozo.github.io/re
 ## 💖 Live Demo
 
 [review-project](https://sheylapozo.github.io/review-project/) 
+<<<<<<< HEAD
 
 ---
 
@@ -37,6 +38,8 @@ The main purpose of the project [review-project](https://sheylapozo.github.io/re
 **Fork** this project (do not open a Pull Request) to start working on any of freeCodeCamp's responsive web design course projects. Select the project from the dropdown menu and run the tests to see which requirements your project is still missing.
 
 You don't know how to fork a project? [Click here](https://help.github.com/articles/fork-a-repo/) to learn how to do it.
+=======
+>>>>>>> 0147a7630ccc606241da5dc68163b6d83df28e66
 
 ---
 
